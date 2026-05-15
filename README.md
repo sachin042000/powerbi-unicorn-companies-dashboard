@@ -53,13 +53,16 @@ The dataset contains:
 ## Screenshots
 
 ### Dashboard Overview
-(Add Screenshot Here)
+<img width="1312" height="738" alt="image" src="https://github.com/user-attachments/assets/4fa19603-901b-4ba4-82ff-58b23c42e482" />
+
 
 ### Industry Analysis
-(Add Screenshot Here)
+<img width="1371" height="785" alt="image" src="https://github.com/user-attachments/assets/4f8012c7-0570-4c2f-832c-d89f6b341cc8" />
+
 
 ### Country-wise Analysis
-(Add Screenshot Here)
+<img width="1366" height="776" alt="image" src="https://github.com/user-attachments/assets/2b935619-744c-45b4-bb9f-c8a4f0fac823" />
+
 
 ---
 
