@@ -1,1 +1,44 @@
+# Power BI temp files
+*.tmp
+*.bak
+*.log
 
+# OS files
+.DS_Store
+Thumbs.db
+
+# =========================
+# Power BI Files
+# =========================
+*.pbix
+*.pbit
+*.pbids
+
+# Power BI temp / autosave files
+*.tmp
+*.bak
+*.log
+*.cache
+
+# Power BI desktop folders (if any)
+ReportSnapshot/
+AutoRecovery/
+
+# =========================
+# System Files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# VS Code / IDE
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# Logs & temp exports
+# =========================
+*.csv
+*.xlsx
+*.zip
